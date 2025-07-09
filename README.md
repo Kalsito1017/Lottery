@@ -25,5 +25,5 @@ This project contains a fully functional lottery dApp where:
 
 ## 🔧 Setup Instructions
 
-> Note: Some external libraries (like Chainlink contracts) may not be included. Be sure to install them manually.
+ Note: Some external libraries (like Chainlink contracts) may not be included. Be sure to install them manually.
 
